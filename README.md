@@ -18,3 +18,5 @@ The coding for this project can be completed using the Jupyter. Here's the file 
 ```
 
 
+# Copyright and license.
+Coldding learn by Udacity[https://www.udacity.com/] Data Science Nanodegree program.,Plotly[https://plotly.com/], Matplotlib[https://matplotlib.org/stable/gallery/index.html].
