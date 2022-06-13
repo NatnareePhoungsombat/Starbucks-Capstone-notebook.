@@ -3,16 +3,17 @@
 Project Submission : Data Science at Udacity.
 
 ## Project Details.
-This project is starbucks capstone notebook from Starbucks to analyze and procressing the data.
+The purpose of this project is to study consumer behavior towards Starbucks and use it to develop product recommendations to consumers. by collecting basic consumer data shopping behavior including interest in various suggestions which these elements will make it more accessible to consumers. An effective analysis is required to set goals, understand the overview of the data for the benefit of modeling, summarize the data and expand in the future. I have divided them as follows:
 
-Follows list:
-* Kind of offer affects the use of consumer services
-* The age range of consumers affects their use of Starbucks
-* The gender of consumers affects their use of Starbucks
-* The consumer's salary affect their use of Starbucks
-* And usage forecasts by those who complete the offer.
-
-Processing of data, when the details are put together, the things that affect the event the most are the consumer's income and the consumer's age. By type of offer, BOGO is the one that consumers get the most and informational It's the lowest-priced offer that consumers get. 
+* Metrics: Identify indicators.
+* Exploratory Data Analysis (EDA)
+  1. Portfolio: verify the information of each columns and separate the contact information. to see the popularity that consumers receive from various channels.
+  2. Profile: check age, gender and year of membership. to know the popularity of consumers What age are you? What elements are important to a purchase? Does gender difference affect product consumption?
+  3. Transcript: check out the events that are accepting offers. and customers without database to see what success rate submitting offers. What is the rate of service compared to normal customers and member customers?
+* Modeling: Build a model to predict whether the offer is "BOGO" or "DISCOUNT" by using a model of LinearRegression compare with LogisticRegression Set the metrics to accuracy and error.
+* Results
+* Conclusion
+* Improvement 
 
 ## File Description.
 The coding for this project can be completed using the Jupyter. Here's the file structure of the project:
